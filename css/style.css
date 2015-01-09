@@ -41,6 +41,7 @@ body #container {
   padding-left: 7px;
   padding-right: 7px;
   width: inherit;
+  padding-bottom: 120px;
 }
 
 #container:after {
